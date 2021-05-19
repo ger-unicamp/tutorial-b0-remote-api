@@ -1,0 +1,3 @@
+/home/pc/Documents/ger-unicamp/tutorial-remote-api-ros2/CMakeFiles/rebuild_cache.dir
+/home/pc/Documents/ger-unicamp/tutorial-remote-api-ros2/CMakeFiles/edit_cache.dir
+/home/pc/Documents/ger-unicamp/tutorial-remote-api-ros2/CMakeFiles/tutorial-remote-api-ros2.dir
