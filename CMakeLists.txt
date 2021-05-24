@@ -23,7 +23,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED)
 
 
 # configuracao do Linux (testada no Ubuntu 20.04)
-# nao sei pq os tokens nao estao funcionando, tenho q escrever o caminho completo em tudo q teoricamente era so colocar eles
 if(UNIX AND NOT APPLE)
     set(LINUX TRUE)
 endif()
